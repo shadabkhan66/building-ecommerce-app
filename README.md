@@ -157,7 +157,7 @@ The API will be available at:
 ## 👨‍💻 Author
 
 **Shadab Khan**
-🔗 [GitHub Profile](https://github.com/your-username)
+🔗 [GitHub Profile]([https://github.com/shadabkhan66](https://github.com/shadabkhan66))
 
 ---
 
