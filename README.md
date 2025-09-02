@@ -104,7 +104,7 @@ src/main/java/com/ecommerce
 
 ## 🔄 Request Flow
 
-1. Frontend (React/Angular) calls `/api/...` endpoint
+1. Frontend (React) calls `/api/...` endpoint
 2. Controller receives request → forwards to Service
 3. Service handles business logic → interacts with Repository
 4. Repository uses JPA/Hibernate to query Database
@@ -126,8 +126,8 @@ src/main/java/com/ecommerce
 ### Prerequisites
 
 * JDK 17+
-* Maven/Gradle
-* MySQL/PostgreSQL (or H2 for dev)
+* Maven
+* MySQL/PostgreSQL/MongoDB (or H2 for dev)(different DB for for different profile)
 
 ### Steps
 
