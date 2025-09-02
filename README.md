@@ -157,8 +157,8 @@ The API will be available at:
 ## 👨‍💻 Author
 
 **Shadab Khan**
-🔗 [GitHub Profile]([https://github.com/shadabkhan66](https://github.com/shadabkhan66))
+🔗 [GitHub Profile](https://github.com/shadabkhan66)
 
 ---
 
-Would you like me to also include **Postman-ready request/response payloads** for each endpoint directly inside the README (like API docs), or do you prefer to keep them in a separate `docs/API.md` file?
+
